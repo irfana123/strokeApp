@@ -63,7 +63,7 @@ def main():
     Residence_type = st.selectbox('RESIDENCE TYPE STATUS',("Urban" ,"Rural"))  
     avg_glucose_level = st.number_input("AVERAGE GLUCOSE LEVEL")
     bmi = st.number_input("BMI")
-    smoking_status = st.selectbox('SMOKING STATUS',("formerly smoked", "never smoked","smokes", "Unknown "))
+    smoking_status = st.selectbox('SMOKING STATUS',("formerly smoked", "never smoked","smokes", "Unknown"))
     result =""
       
     # when 'Predict' is clicked, make the prediction and store it 
