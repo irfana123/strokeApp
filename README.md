@@ -7,12 +7,7 @@
    ![image](https://user-images.githubusercontent.com/12782921/129340048-17b27546-5dbc-4a60-8c50-9befa3ddb50c.png)
 
 
-
-
-
-
-
-
+STROKE WEB APP:-- https://stroke-web-app.herokuapp.com/
 
 Introduction
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
