@@ -1,10 +1,11 @@
-                                                      # strokeApp
-                                             Data Analysis Project
+                                                      
+                                                 Data Analysis Project
                                                        On
- 	                                        	Stroke Prediction Analysis
+ 	                                     	Stroke Prediction Analysis
 
 
 
+![image](https://user-images.githubusercontent.com/12782921/129340048-17b27546-5dbc-4a60-8c50-9befa3ddb50c.png)
 
 
 
@@ -100,4 +101,8 @@ Future Scope
 The final cleaned dataset will be then used to train and test the new user input. 
 Build a stroke prediction model with maximum accuracy.
 Finally the Machine Learning model is deployed on Heroku platform to make available for Users.
-![image](https://user-images.githubusercontent.com/12782921/129340048-17b27546-5dbc-4a60-8c50-9befa3ddb50c.png)
+
+
+
+
+
