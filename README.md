@@ -96,7 +96,7 @@ The final cleaned dataset will be then used to train and test the new user input
 Build a stroke prediction model with maximum accuracy.
 Finally the Machine Learning model is deployed on Heroku platform to make available for Users.
 
-
-
+Project Scope:
+Early prediction of stroke diseases is useful for the prevention or for early treatment intervention. The proposed Stroke predictor model helps health care in making suitable insights on the trend of possibility of Stroke.
 
 
